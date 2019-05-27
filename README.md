@@ -45,6 +45,7 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe J
 28. **Ask the Right Questions: Active Question Reformulation with Reinforcement Learning.** Christian Buck, Jannis Bulian, Massimiliano Ciaramita, Wojciech Gajewski, Andrea Gesmundo, Neil Houlsby, and Wei Wang. ICLR2018. [paper](https://arxiv.org/abs/1705.07830)
 29. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541)
 30. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.**, Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. AAAI2019. [paper](https://arxiv.org/abs/1808.05759)
+
 31.**Multi-style Generative Reading Comprehensio Minghao Hu.** , XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
 
 
