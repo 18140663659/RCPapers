@@ -9,6 +9,15 @@
 6.  **Improving Language Understanding by Generative Pre-Training** XXX. XXX. [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 7.  **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
+### Attention
+1. **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** XXX. XXX. [paper](https://arxiv.org/pdf/1409.0473.pdf)
+2. **Effective Approaches to Attention-based Neural Machine Translation** XXX. XXX [paper](https://arxiv.org/pdf/1508.04025.pdf)
+3. **Teaching Machines to Read and Comprehend.** XXX. XXX. [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
+4. **Long Short-Term Memory-Networks for Machine Reading.** XXX. XXX [paper](https://aclweb.org/anthology/D16-1053)
+5. **FEED-FORWARD NETWORKS WITH ATTENTION CAN SOLVE SOME LONG-TERM MEMORY PROBLEMS** XXX. XXX. [paper](https://arxiv.org/pdf/1512.08756.pdf)
+6. **A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING** XXX. XXX. [paper](https://arxiv.org/pdf/1703.03130.pdf)
+7. **FRUSTRATINGLY SHORT ATTENTION SPANS IN NEURAL LANGUAGE MODELING. XXX. XXX. [paper](https://arxiv.org/pdf/1702.04521.pdf)
+
 ### Model Architecture
 1.   **Memory networks.** Jason Weston, Sumit Chopra, and Antoine Bordes. arXiv preprint arXiv:1410.3916 (2014). [paper](https://arxiv.org/pdf/1410.3916)
 2. **Teaching Machines to Read and Comprehend.** Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. NIPS 2015. [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
