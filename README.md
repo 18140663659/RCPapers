@@ -1,6 +1,4 @@
-## Must-read papers on Machine Reading Comprehension.
-
-Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe Ji. 
+## Must-read papers on Machine Reading Comprehension. 
 
 ### Word Embbedding
 1.  **A Neural Probabilistic Language Model.**  XXX. XXX. [paper](http://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model.pdf)
@@ -11,11 +9,7 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe J
 6.  **Improving Language Understanding by Generative Pre-Training** XXX. XXX. [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
 7.  **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
-
-
-
 ### Model Architecture
-
 1.   **Memory networks.** Jason Weston, Sumit Chopra, and Antoine Bordes. arXiv preprint arXiv:1410.3916 (2014). [paper](https://arxiv.org/pdf/1410.3916)
 2. **Teaching Machines to Read and Comprehend.** Karl Moritz Hermann, Tomáš Kočiský, Edward Grefenstette, Lasse Espeholt, Will Kay, Mustafa Suleyman, and Phil Blunsom. NIPS 2015. [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
 3.  **Text Understanding with the Attention Sum Reader Network.** Rudolf Kadlec, Martin Schmid, Ondrej Bajgar, and Jan Kleindienst. ACL 2016. [paper](http://www.aclweb.org/anthology/P16-1086)
@@ -56,8 +50,7 @@ Contributed by [Yankai Lin](http://www.thunlp.org/~lyk/), Deming Ye and Haozhe J
 28. **Ask the Right Questions: Active Question Reformulation with Reinforcement Learning.** Christian Buck, Jannis Bulian, Massimiliano Ciaramita, Wojciech Gajewski, Andrea Gesmundo, Neil Houlsby, and Wei Wang. ICLR2018. [paper](https://arxiv.org/abs/1705.07830)
 29. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541)
 30. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.**, Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. AAAI2019. [paper](https://arxiv.org/abs/1808.05759)
-
- 41.**Multi-style Generative Reading Comprehensio Minghao Hu.** , XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
+41.**Multi-style Generative Reading Comprehensio Minghao Hu.** , XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
 
 
 ### Utilizing External Knowledge
