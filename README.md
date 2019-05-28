@@ -2,11 +2,17 @@
 
 ### Word Embbedding
 1.  **A Neural Probabilistic Language Model.**  XXX. XXX. [paper](http://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model.pdf)
+
 2.  **Efficient Estimation of Word Representations in Vector Space.** XXX. XXX. [paper](https://arxiv.org/abs/1301.3781.pdf)
+
 3.  **GloVe: Global Vectors for Word Representation** XXX. XXX. [paper](https://nlp.stanford.edu/pubs/glove.pdf)
+
 4   **Deep contextualized word representations** XXX. XXX. [paper](https://arxiv.org/pdf/1802.05365.pdf)
+
 5.  **Attention Is All You Need** XXX.XXX. [paper](https://arxiv.org/pdf/1706.03762.pdf)
+
 6.  **Improving Language Understanding by Generative Pre-Training** XXX. XXX. [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
+
 7.  **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1810.04805.pdf)
 
 ### Attention
