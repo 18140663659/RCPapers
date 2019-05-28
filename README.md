@@ -7,7 +7,7 @@
 
 3.  **GloVe: Global Vectors for Word Representation** XXX. XXX. [paper](https://nlp.stanford.edu/pubs/glove.pdf)
 
-4   **Deep contextualized word representations** XXX. XXX. [paper](https://arxiv.org/pdf/1802.05365.pdf)
+ 4   **Deep contextualized word representations** XXX. XXX. [paper](https://arxiv.org/pdf/1802.05365.pdf)
 
 5.  **Attention Is All You Need** XXX.XXX. [paper](https://arxiv.org/pdf/1706.03762.pdf)
 
