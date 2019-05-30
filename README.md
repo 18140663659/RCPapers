@@ -25,6 +25,7 @@
 7. **FRUSTRATINGLY SHORT ATTENTION SPANS IN NEURAL LANGUAGE MODELING**. XXX. XXX. [paper](https://arxiv.org/pdf/1702.04521.pdf)
 8. **Gated Group Self-Attention for Answer Selection**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.10720v1.pdf). 
 9. **Context-Aware Self-Attention Networks**. XXX. XXX. [paper](https://arxiv.org/pdf/1902.05766.pdf)
+10. **Convolutional Self-Attention Networks** XXX. XXX. [paper](https://arxiv.org/pdf/1904.03107.pdf)
 
 ### Model Architecture
 1.   **Memory networks.** Jason Weston, Sumit Chopra, and Antoine Bordes. arXiv preprint arXiv:1410.3916 (2014). [paper](https://arxiv.org/pdf/1410.3916)
@@ -69,6 +70,9 @@
 40. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. AAAI2019. [paper](https://arxiv.org/abs/1808.05759)
 
 41. **Multi-style Generative Reading Comprehension.** XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
+42. **Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases** XXX. XXX. [paper](https://arxiv.org/pdf/1903.02188.pdf)
+43. **Multi-Instance Learning for End-to-End Knowledge Base Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1903.02652.pdf)
+44. **ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions** XXX. XXX. [paper](https://arxiv.org/pdf/1904.02651.pdf).[code](https://github.com/sohamparikh94/ElimiNet)
 
 
 ### Related Works
@@ -78,14 +82,8 @@
 5. **Dynamically Fused Graph Network for Multi-hop Reasoning** XXX. XXX. [paper](https://arxiv.org/pdf/1905.06933.pdf)
 6. **Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1901.00603.pdf)
 7. **HAS-QA: Hierarchical Answer Spans Model for Open-domain Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1901.03866.pdf)
-
-
-
-
-
-
-
-
+8. **Repurposing Entailment for Multi-Hop Question Answering Tasks** XXX. XXX. [paper](https://arxiv.org/pdf/1904.09380.pdf)
+9. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale** XXX. XXX. [paper](https://arxiv.org/pdf/1905.05460.pdf)
 
 
 ### Datasets
