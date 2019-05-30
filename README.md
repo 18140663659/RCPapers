@@ -1,6 +1,6 @@
 ## Must-read papers on Machine Reading Comprehension. 
 
-### Word Embbedding
+### Pre-Train Model
 1.  **A Neural Probabilistic Language Model.**  XXX. XXX. [paper](http://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model.pdf)
 
 2.  **Efficient Estimation of Word Representations in Vector Space.** XXX. XXX. [paper](https://arxiv.org/abs/1301.3781.pdf).[code](https://github.com/deborausujono/word2vecpy)
@@ -23,6 +23,8 @@
 5. **FEED-FORWARD NETWORKS WITH ATTENTION CAN SOLVE SOME LONG-TERM MEMORY PROBLEMS** XXX. XXX. [paper](https://arxiv.org/pdf/1512.08756.pdf)
 6. **A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING** XXX. XXX. [paper](https://arxiv.org/pdf/1703.03130.pdf)
 7. **FRUSTRATINGLY SHORT ATTENTION SPANS IN NEURAL LANGUAGE MODELING**. XXX. XXX. [paper](https://arxiv.org/pdf/1702.04521.pdf)
+8. **Gated Group Self-Attention for Answer Selection**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.10720v1.pdf). 
+9. **Context-Aware Self-Attention Networks**. XXX. XXX. [paper](https://arxiv.org/pdf/1902.05766.pdf)
 
 ### Model Architecture
 1.   **Memory networks.** Jason Weston, Sumit Chopra, and Antoine Bordes. arXiv preprint arXiv:1410.3916 (2014). [paper](https://arxiv.org/pdf/1410.3916)
@@ -69,24 +71,20 @@
 41. **Multi-style Generative Reading Comprehension.** XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
 
 
-### Utilizing External Knowledge
-1.  **Leveraging Knowledge Bases in LSTMs for Improving Machine Reading.** Bishan Yang and Tom Mitchell. ACL 2017. [paper](http://aclweb.org/anthology/P17-1132)
-2. **Learned in Translation: Contextualized Word Vectors.** Bryan McCann, James Bradbury, Caiming Xiong, and Richard Socher. arXiv preprint arXiv:1708.00107 (2017). [paper](https://arxiv.org/pdf/1708.00107)
-3. **Knowledgeable Reader: Enhancing Cloze-Style Reading Comprehension with External Commonsense Knowledge.** Todor Mihaylov and Anette Frank. ACL 2018. [paper](http://aclweb.org/anthology/P18-1076)
-4. **A Comparative Study of Word Embeddings for Reading Comprehension.** Bhuwan Dhingra, Hanxiao Liu, Ruslan Salakhutdinov, and William W. Cohen. arXiv preprint arXiv:1703.00993 (2017). [paper](https://arxiv.org/pdf/1703.00993)
-5. **Deep contextualized word representations.** Matthew E. Peters, Mark Neumann, Mohit Iyyer, Matt Gardner, Christopher Clark, Kenton Lee, and Luke Zettlemoyer. NAACL 2018. [paper](http://aclweb.org/anthology/N18-1202)
-6. **Improving Language Understanding by Generative Pre-Training.** Alec Radford, Karthik Narasimhan, Tim Salimans, and Ilya Sutskever. OpenAI. [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf)
-6. **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding.** Jacob Devlin, Ming-Wei Chang, Kenton Lee, and Kristina Toutanova. arXiv preprint arXiv:1810.04805 (2018). [paper](https://arxiv.org/pdf/1810.04805.pdf)
+### Related Works
+1. **Explicit Utilization of General Knowledge in Machine Reading Comprehension** XXX. XXX. [paper](https://arxiv.org/pdf/1809.03449v3.pdf)
+3. **Text Generation from Knowledge Graphs with Graph Transformers** XXX.XXX. [paper](https://arxiv.org/pdf/1905.06933v2.pdf). [code](https://github.com/rikdz/GraphWriter)
+4. **Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction** XXX. XXX. [paper](https://arxiv.org/pdf/1905.08511.pdf). 
+5. **Dynamically Fused Graph Network for Multi-hop Reasoning** XXX. XXX. [paper](https://arxiv.org/pdf/1905.06933.pdf)
+6. **Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1901.00603.pdf)
+7. **HAS-QA: Hierarchical Answer Spans Model for Open-domain Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1901.03866.pdf)
+8. 
 
-### Exploration
-1. **Adversarial Examples for Evaluating Reading Comprehension Systems.** Robin Jia, and Percy Liang. EMNLP 2017. [paper](https://web.stanford.edu/~robinjia/pdf/emnlp2017-adversarial.pdf)
-2. **Did the Model Understand the Question?** Pramod Kaushik Mudrakarta, Ankur Taly, Mukund Sundararajan, and Kedar Dhamdhere. ACL 2018.  [paper](http://aclweb.org/anthology/P18-1176)
 
-### Open Domain Question Answering
-1. **Reading Wikipedia to Answer Open-Domain Questions.** Danqi Chen, Adam Fisch, Jason Weston, and Antoine Bordes. ACL 2017. [paper](http://aclweb.org/anthology/P17-1171)
-2. **R^3: Reinforced Reader-Ranker for Open-Domain Question Answering.** Shuohang Wang, Mo Yu, Xiaoxiao Guo, Zhiguo Wang, Tim Klinger, Wei Zhang, Shiyu Chang, Gerald Tesauro, Bowen Zhou, and Jing Jiang. AAAI 2018. [paper](https://arxiv.org/pdf/1709.00023)
-3. **Evidence Aggregation for Answer Re-Ranking in Open-Domain Question Answering.** Shuohang Wang, Mo Yu, Jing Jiang, Wei Zhang, Xiaoxiao Guo, Shiyu Chang, Zhiguo Wang, Tim Klinger, Gerald Tesauro, and Murray Campbell. ICLR 2018. [paper](https://arxiv.org/pdf/1711.05116)
-4. **Denoising Distantly Supervised Open-Domain Question Answering.** Yankai Lin, Haozhe Ji, Zhiyuan Liu, and Maosong Sun.  ACL 2018. [paper](http://aclweb.org/anthology/P18-1161)
+
+
+
+
 
 
 
