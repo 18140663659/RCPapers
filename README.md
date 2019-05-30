@@ -71,9 +71,6 @@
 
 41. **Multi-style Generative Reading Comprehension.** XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
 42. **Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases** XXX. XXX. [paper](https://arxiv.org/pdf/1903.02188.pdf)
-43. **Multi-Instance Learning for End-to-End Knowledge Base Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1903.02652.pdf)
-44. **ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions** XXX. XXX. [paper](https://arxiv.org/pdf/1904.02651.pdf).[code](https://github.com/sohamparikh94/ElimiNet)
-
 
 ### Related Works
 1. **Explicit Utilization of General Knowledge in Machine Reading Comprehension** XXX. XXX. [paper](https://arxiv.org/pdf/1809.03449v3.pdf)
@@ -87,6 +84,7 @@
 10. **MULTI-STEP RETRIEVER-READER INTERACTION FOR SCALABLE OPEN-DOMAIN QUESTION ANSWERING** XXX. XXX. [paper](https://arxiv.org/pdf/1905.05733.pdf). [code](https://github.com/rajarshd/Multi-Step-Reasoning)
 11. **HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.06566.pdf). [code](https://github.com/abisee/cnn-dailymail)
 12. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs** XXX. XXX. [paper](https://arxiv.org/pdf/1905.07374.pdf)
+13. **ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions** XXX. XXX. [paper](https://arxiv.org/pdf/1904.02651.pdf).[code](https://github.com/sohamparikh94/ElimiNet)
 
 
 
