@@ -84,6 +84,11 @@
 7. **HAS-QA: Hierarchical Answer Spans Model for Open-domain Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1901.03866.pdf)
 8. **Repurposing Entailment for Multi-Hop Question Answering Tasks** XXX. XXX. [paper](https://arxiv.org/pdf/1904.09380.pdf)
 9. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale** XXX. XXX. [paper](https://arxiv.org/pdf/1905.05460.pdf)
+10. **MULTI-STEP RETRIEVER-READER INTERACTION FOR SCALABLE OPEN-DOMAIN QUESTION ANSWERING** XXX. XXX. [paper](https://arxiv.org/pdf/1905.05733.pdf). [code](https://github.com/rajarshd/Multi-Step-Reasoning)
+11. **HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.06566.pdf). [code](t https://github.com/abisee/cnn-dailymail)
+12. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs** XXX. XXX. [paper](https://arxiv.org/pdf/1905.07374.pdf)
+
+
 
 
 ### Datasets
