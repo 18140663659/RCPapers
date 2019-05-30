@@ -74,7 +74,7 @@
 
 ### Related Works
 1. **Explicit Utilization of General Knowledge in Machine Reading Comprehension** XXX. XXX. [paper](https://arxiv.org/pdf/1809.03449v3.pdf)
-3. **Text Generation from Knowledge Graphs with Graph Transformers** XXX.XXX. [paper](https://arxiv.org/pdf/1905.06933v2.pdf). [code](https://github.com/rikdz/GraphWriter)
+3. **Text Generation from Knowledge Graphs with Graph Transformers** XXX.XXX. [paper](https://arxiv.org/pdf/1904.02342.pdf). [code](https://github.com/rikdz/GraphWriter)
 4. **Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction** XXX. XXX. [paper](https://arxiv.org/pdf/1905.08511.pdf). 
 5. **Dynamically Fused Graph Network for Multi-hop Reasoning** XXX. XXX. [paper](https://arxiv.org/pdf/1905.06933.pdf)
 6. **Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1901.00603.pdf)
