@@ -78,7 +78,7 @@
 5. **Dynamically Fused Graph Network for Multi-hop Reasoning** XXX. XXX. [paper](https://arxiv.org/pdf/1905.06933.pdf)
 6. **Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1901.00603.pdf)
 7. **HAS-QA: Hierarchical Answer Spans Model for Open-domain Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1901.03866.pdf)
-8. 
+
 
 
 
