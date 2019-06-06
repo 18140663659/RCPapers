@@ -85,6 +85,8 @@
 11. **HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.06566.pdf). [code](https://github.com/abisee/cnn-dailymail)
 12. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs** XXX. XXX. [paper](https://arxiv.org/pdf/1905.07374.pdf)
 13. **ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions** XXX. XXX. [paper](https://arxiv.org/pdf/1904.02651.pdf).[code](https://github.com/sohamparikh94/ElimiNet)
+14. **Latent Retrieval for Weakly Supervised Open Domain Question Answering** [paper](https://arxiv.org/pdf/1906.00300.pdf)
+15. **A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension** [paper](https://arxiv.org/pdf/1905.12848.pdf)
 
 
 
