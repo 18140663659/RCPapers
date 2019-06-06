@@ -56,7 +56,7 @@
 26. **Efficient and Robust Question Answering from Minimal Context over Documents.** Sewon Min, Victor Zhong, Richard Socher, and Caiming Xiong. ACL 2018. [paper](http://aclweb.org/anthology/P18-1160)
 27. **Simple and Effective Multi-Paragraph Reading Comprehension.** Christopher Clark and Matt Gardner. ACL 2018. [paper](http://aclweb.org/anthology/P18-1078)
 28. **Neural Speed Reading via Skim-RNN.** Minjoon Seo, Sewon Min, Ali Farhadi,  and Hannaneh Hajishirzi. ICLR2018. [paper](https://arxiv.org/pdf/1711.02085)
-29. **Hierarchical Attention Flow forMultiple-Choice Reading Comprehension.** Haichao Zhu, Furu Wei, Bing Qin, and Ting Liu. AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16331/16177).[code](https://github.com/caldreaming/Hierarchical_Attention_Flow_Model)
+29. **Hierarchical Attention Flow for Multiple-Choice Reading Comprehension.** Haichao Zhu, Furu Wei, Bing Qin, and Ting Liu. AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16331/16177).[code](https://github.com/caldreaming/Hierarchical_Attention_Flow_Model)
 30. **Towards Reading Comprehension for Long Documents.** Yuanxing Zhang, Yangbin Zhang, Kaigui Bian, and Xiaoming Li. IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0638.pdf)
 31. **Joint Training of Candidate Extraction and Answer Selection for Reading Comprehension.** Zhen Wang, Jiachen Liu, Xinyan Xiao, Yajuan Lyu, and Tian Wu. ACL 2018. [paper](http://aclweb.org/anthology/P18-1159)
 32. **Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification.** Yizhong Wang, Kai Liu, Jing Liu, Wei He, Yajuan Lyu, Hua Wu, Sujian Li, and Haifeng Wang. ACL 2018. [paper](http://aclweb.org/anthology/P18-1178)
@@ -71,6 +71,8 @@
 
 41. **Multi-style Generative Reading Comprehension.** XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
 42. **Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases** XXX. XXX. [paper](https://arxiv.org/pdf/1903.02188.pdf)
+43. **Improving Machine Reading Comprehension with General Reading Strategies** . XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1270). [code](https://github.com/nlpdata/strategy/)
+44. **Multi-task Learning with Sample Re-weighting for Machine Reading Comprehension**. XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1271). 
 
 ### Related Works
 1. **Explicit Utilization of General Knowledge in Machine Reading Comprehension** XXX. XXX. [paper](https://arxiv.org/pdf/1809.03449v3.pdf)
@@ -85,9 +87,10 @@
 11. **HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.06566.pdf). [code](https://github.com/abisee/cnn-dailymail)
 12. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs** XXX. XXX. [paper](https://arxiv.org/pdf/1905.07374.pdf)
 13. **ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions** XXX. XXX. [paper](https://arxiv.org/pdf/1904.02651.pdf).[code](https://github.com/sohamparikh94/ElimiNet)
-14. **Latent Retrieval for Weakly Supervised Open Domain Question Answering** [paper](https://arxiv.org/pdf/1906.00300.pdf)
-15. **A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension** [paper](https://arxiv.org/pdf/1905.12848.pdf)
-
+14. **Latent Retrieval for Weakly Supervised Open Domain Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1906.00300.pdf)
+15. **A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.12848.pdf)
+16. **Sequential Attention with Keyword Mask Model for Community-based Question Answering**. XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1228). [code](https://github.com/sheep-for/question_answer_matching)
+17. **BAG: Bi-directional Attention Entity Graph Convolutional Network forMulti-hop Reasoning Question Answering** . XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1032). [code](https://github.com/caoyu1991/BAG)
 
 
 
