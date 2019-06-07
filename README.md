@@ -11,9 +11,11 @@
 
 5.  **Attention Is All You Need** XXX.XXX. [paper](https://arxiv.org/pdf/1706.03762.pdf). [code](https://github.com/Kyubyong/transformer)
 
-6.  **Improving Language Understanding by Generative Pre-Training** XXX. XXX. [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf). [code](https://github.com/openai/gpt-2)
+6.  **Improving Language Understanding by Generative Pre-Training** XXX. XXX. [paper](https://s3-us-west-2.amazonaws.com/openai-assets/research-covers/language-unsupervised/language_understanding_paper.pdf). [code](https://github.com/openai/finetune-transformer-lm)
 
-7.  **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1810.04805.pdf). [code](https://github.com/google-research/bert)
+7. **Language Models are Unsupervised Multitask Learners** XXX. XXX. [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf). [code](https://github.com/openai/gpt-2)
+
+8.  **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1810.04805.pdf). [code](https://github.com/google-research/bert)
 
 ### Attention
 1. **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** XXX. XXX. [paper](https://arxiv.org/pdf/1409.0473.pdf)
