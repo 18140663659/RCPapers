@@ -39,8 +39,8 @@
 9. **Multi-Perspective Context Matching for Machine Comprehension.** Zhiguo Wang, Haitao Mi, Wael Hamza, and Radu Florian. arXiv preprint arXiv:1612.04211. [paper](https://arxiv.org/pdf/1612.04211)。[code](https://github.com/QiujiangJin/Implementation-of-Multi-Perspective-Context-Matching-for-Machine-Comprehension)
 10. **Natural Language Comprehension with the Epireader.** Adam Trischler, Zheng Ye, Xingdi Yuan, and Kaheer Suleman. EMNLP 2016. [paper](https://www.aclweb.org/anthology/D16-1013)
 11. **Iterative Alternating Neural Attention for Machine Reading.** Alessandro Sordoni, Philip Bachman, Adam Trischler, and Yoshua Bengio. arXiv preprint arXiv:1606.02245 (2016). [paper](https://arxiv.org/pdf/1606.02245)
-12. **Bidirectional Attention Flow for Machine Comprehension.** Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, and Hannaneh Hajishirzi. ICLR 2017. [paper](https://arxiv.org/pdf/1611.01603.pdf).[code](https://github.com/jojonki/BiDAF)
-13. **Machine Comprehension Using Match-lstm and Answer Pointer.** Shuohang Wang and Jing Jiang. arXiv preprint arXiv:1608.07905 (2016). [paper](https://arxiv.org/pdf/1608.07905).[code](https://github.com/18140663659/QA-matchLSTM)
+12. **(Important)Bidirectional Attention Flow for Machine Comprehension.** Minjoon Seo, Aniruddha Kembhavi, Ali Farhadi, and Hannaneh Hajishirzi. ICLR 2017. [paper](https://arxiv.org/pdf/1611.01603.pdf).[code](https://github.com/jojonki/BiDAF)
+13. **(Important)Machine Comprehension Using Match-lstm and Answer Pointer.** Shuohang Wang and Jing Jiang. arXiv preprint arXiv:1608.07905 (2016). [paper](https://arxiv.org/pdf/1608.07905).[code](https://github.com/18140663659/QA-matchLSTM)
 14. **Gated Self-matching Networks for Reading Comprehension and Question Answering.** Wenhui Wang, Nan Yang, Furu Wei, Baobao Chang, and Ming Zhou.  ACL 2017. [paper](http://www.aclweb.org/anthology/P17-1018).[code](https://github.com/alexduer/squad-gated-rep)
 15. **Attention-over-attention Neural Networks for Reading Comprehension.**  Yiming Cui, Zhipeng Chen, Si Wei, Shijin Wang, Ting Liu, and Guoping Hu. ACL 2017. [paper](http://aclweb.org/anthology/P17-1055).[code](https://github.com/OlavHN/attention-over-attention)
 16. **Gated-attention Readers for Text Comprehension.** Bhuwan Dhingra, Hanxiao Liu, Zhilin Yang, William W. Cohen, and Ruslan Salakhutdinov. ACL 2017. [paper](http://aclweb.org/anthology/P17-1168).[code](https://github.com/18140663659/ga-reader)
@@ -49,7 +49,7 @@
 19. **Accurate Supervised and Semi-Supervised Machine Reading for Long Documents.** Izzeddin Gur, Daniel Hewlett, Alexandre Lacoste, and Llion Jones. EMNLP 2017.  [paper](http://aclweb.org/anthology/D17-1214)
 20. **MEMEN: Multi-layer Embedding with Memory Networks for Machine Comprehension.** Boyuan Pan, Hao Li, Zhou Zhao, Bin Cao, Deng Cai, and Xiaofei He. arXiv preprint arXiv:1707.09098 (2017). [paper](https://arxiv.org/pdf/1707.09098)
 21. **Dynamic Coattention Networks For Question Answering.** Caiming Xiong, Victor Zhong, and Richard Socher. ICLR 2017 [paper](https://arxiv.org/pdf/1611.01604.pdf).[code](https://github.com/marshmelloX/dynamic-coattention-network)
-22. **R-NET: Machine Reading Comprehension with Self-matching Networks.** Natural Language Computing Group, Microsoft Research Asia. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf).[code](https://github.com/18140663659/R-Net)
+22. **(Important)R-NET: Machine Reading Comprehension with Self-matching Networks.** Natural Language Computing Group, Microsoft Research Asia. [paper](https://www.microsoft.com/en-us/research/wp-content/uploads/2017/05/r-net.pdf).[code](https://github.com/18140663659/R-Net)
 23. **Reasonet: Learning to Stop Reading in Machine Comprehension.** Yelong Shen, Po-Sen Huang, Jianfeng Gao, and Weizhu Chen. KDD 2017. [paper](https://arxiv.org/pdf/1609.05284).[code](https://github.com/AnatoliiPotapov/tf_Reasonet)
 24. **FusionNet: Fusing via Fully-Aware Attention with Application to Machine Comprehension.** Hsin-Yuan Huang, Chenguang Zhu, Yelong Shen, and Weizhu Chen.  ICLR 2018. [paper](https://arxiv.org/pdf/1711.07341).[code](https://github.com/theSage21/FusionNet)
 25. **Making Neural QA as Simple as Possible but not Simpler.** Dirk Weissenborn, Georg Wiese, and Laura Seiffe. CoNLL 2017. [paper](http://www.aclweb.org/anthology/K17-1028)
@@ -59,17 +59,17 @@
 29. **Hierarchical Attention Flow for Multiple-Choice Reading Comprehension.** Haichao Zhu, Furu Wei, Bing Qin, and Ting Liu. AAAI 2018. [paper](https://www.aaai.org/ocs/index.php/AAAI/AAAI18/paper/viewFile/16331/16177).[code](https://github.com/caldreaming/Hierarchical_Attention_Flow_Model)
 30. **Towards Reading Comprehension for Long Documents.** Yuanxing Zhang, Yangbin Zhang, Kaigui Bian, and Xiaoming Li. IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0638.pdf)
 31. **Joint Training of Candidate Extraction and Answer Selection for Reading Comprehension.** Zhen Wang, Jiachen Liu, Xinyan Xiao, Yajuan Lyu, and Tian Wu. ACL 2018. [paper](http://aclweb.org/anthology/P18-1159)
-32. **Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification.** Yizhong Wang, Kai Liu, Jing Liu, Wei He, Yajuan Lyu, Hua Wu, Sujian Li, and Haifeng Wang. ACL 2018. [paper](http://aclweb.org/anthology/P18-1178)
+32. **(Important)Multi-Passage Machine Reading Comprehension with Cross-Passage Answer Verification.** Yizhong Wang, Kai Liu, Jing Liu, Wei He, Yajuan Lyu, Hua Wu, Sujian Li, and Haifeng Wang. ACL 2018. [paper](http://aclweb.org/anthology/P18-1178)
 33. **Reinforced Mnemonic Reader for Machine Reading Comprehension.** Minghao Hu, Yuxing Peng, Zhen Huang, Xipeng Qiu, Furu Wei, and Ming Zhou. IJCAI 2018. [paper](https://www.ijcai.org/proceedings/2018/0570.pdf).[code](https://github.com/ewrfcas/Reinforced-Mnemonic-Reader)
 34. **Stochastic Answer Networks for Machine Reading Comprehension.** Xiaodong Liu, Yelong Shen, Kevin Duh, and Jianfeng Gao. ACL 2018. [paper](http://aclweb.org/anthology/P18-1157).[code](https://github.com/kevinduh/san_mrc)
 35. **Multi-Granularity Hierarchical Attention Fusion Networks for Reading Comprehension and Question Answering.** Wei Wang, Ming Yan, and Chen Wu. ACL 2018. [paper](http://aclweb.org/anthology/P18-1158). [code](https://github.com/RahulSChand/Multi-Granularity-Hierarchical-Attention-Fusion-Networks-for-Question-Answering---TensorFlow)
 36. **A Multi-Stage Memory Augmented Neural Networkfor Machine Reading Comprehension.** Seunghak Yu, Sathish Indurthi, Seohyun Back, and Haejun Lee. ACL 2018 workshop. [paper](http://aclweb.org/anthology/W18-2603)
-37. **S-NET: From Answer Extraction to Answer Generation for Machine Reading Comprehension.** Chuanqi Tan, Furu Wei, Nan Yang, Bowen Du, Weifeng Lv, and  Ming Zhou. AAAI2018. [paper](https://arxiv.org/abs/1706.04815)
+37. **(Important)S-NET: From Answer Extraction to Answer Generation for Machine Reading Comprehension.** Chuanqi Tan, Furu Wei, Nan Yang, Bowen Du, Weifeng Lv, and  Ming Zhou. AAAI2018. [paper](https://arxiv.org/abs/1706.04815)
 38. **Ask the Right Questions: Active Question Reformulation with Reinforcement Learning.** Christian Buck, Jannis Bulian, Massimiliano Ciaramita, Wojciech Gajewski, Andrea Gesmundo, Neil Houlsby, and Wei Wang. ICLR2018. [paper](https://arxiv.org/abs/1705.07830)
-39. **QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541).[code](https://github.com/NLPLearn/QANet)
+39. **(Important)QANet: Combining Local Convolution with Global Self-Attention for Reading Comprehension.** Adams Wei Yu, David Dohan, Minh-Thang Luong, Rui Zhao, Kai Chen, Mohammad Norouzi, and Quoc V. Le. ICLR2018. [paper](https://arxiv.org/abs/1804.09541).[code](https://github.com/NLPLearn/QANet)
 40. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. AAAI2019. [paper](https://arxiv.org/abs/1808.05759)
 
-41. **Multi-style Generative Reading Comprehension.** XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
+41. **(Important)Multi-style Generative Reading Comprehension.** XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
 42. **Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases** XXX. XXX. [paper](https://arxiv.org/pdf/1903.02188.pdf)
 43. **Improving Machine Reading Comprehension with General Reading Strategies** . XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1270). [code](https://github.com/nlpdata/strategy/)
 44. **Multi-task Learning with Sample Re-weighting for Machine Reading Comprehension**. XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1271). 
@@ -94,7 +94,6 @@
 18. **Gated Group Self-Attention for Answer Selection**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.10720v1.pdf). 
 19. **Context-Aware Self-Attention Networks**. XXX. XXX. [paper](https://arxiv.org/pdf/1902.05766.pdf)
 20. **Convolutional Self-Attention Networks** XXX. XXX. [paper](https://arxiv.org/pdf/1904.03107.pdf)
-
 
 
 ### Datasets
