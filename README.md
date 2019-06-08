@@ -1,6 +1,6 @@
 ## Must-read papers on Machine Reading Comprehension. 
 
-### Pre-Train Model
+### (Important)Pre-Train Model
 1.  **A Neural Probabilistic Language Model.**  XXX. XXX. [paper](http://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model.pdf)
 
 2.  **Efficient Estimation of Word Representations in Vector Space.** XXX. XXX. [paper](https://arxiv.org/abs/1301.3781.pdf).[code](https://github.com/deborausujono/word2vecpy)
@@ -17,7 +17,7 @@
 
 8.  **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1810.04805.pdf). [code](https://github.com/google-research/bert)
 
-### Attention
+### (Important)Attention
 1. **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** XXX. XXX. [paper](https://arxiv.org/pdf/1409.0473.pdf)
 2. **Effective Approaches to Attention-based Neural Machine Translation** XXX. XXX [paper](https://arxiv.org/pdf/1508.04025.pdf)
 3. **Teaching Machines to Read and Comprehend.** XXX. XXX. [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
@@ -25,9 +25,7 @@
 5. **FEED-FORWARD NETWORKS WITH ATTENTION CAN SOLVE SOME LONG-TERM MEMORY PROBLEMS** XXX. XXX. [paper](https://arxiv.org/pdf/1512.08756.pdf)
 6. **A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING** XXX. XXX. [paper](https://arxiv.org/pdf/1703.03130.pdf)
 7. **FRUSTRATINGLY SHORT ATTENTION SPANS IN NEURAL LANGUAGE MODELING**. XXX. XXX. [paper](https://arxiv.org/pdf/1702.04521.pdf)
-8. **Gated Group Self-Attention for Answer Selection**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.10720v1.pdf). 
-9. **Context-Aware Self-Attention Networks**. XXX. XXX. [paper](https://arxiv.org/pdf/1902.05766.pdf)
-10. **Convolutional Self-Attention Networks** XXX. XXX. [paper](https://arxiv.org/pdf/1904.03107.pdf)
+
 
 ### Model Architecture
 1.   **Memory networks.** Jason Weston, Sumit Chopra, and Antoine Bordes. arXiv preprint arXiv:1410.3916 (2014). [paper](https://arxiv.org/pdf/1410.3916)
@@ -93,6 +91,9 @@
 15. **A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.12848.pdf)
 16. **Sequential Attention with Keyword Mask Model for Community-based Question Answering**. XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1228). [code](https://github.com/sheep-for/question_answer_matching)
 17. **BAG: Bi-directional Attention Entity Graph Convolutional Network forMulti-hop Reasoning Question Answering** . XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1032). [code](https://github.com/caoyu1991/BAG)
+18. **Gated Group Self-Attention for Answer Selection**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.10720v1.pdf). 
+19. **Context-Aware Self-Attention Networks**. XXX. XXX. [paper](https://arxiv.org/pdf/1902.05766.pdf)
+20. **Convolutional Self-Attention Networks** XXX. XXX. [paper](https://arxiv.org/pdf/1904.03107.pdf)
 
 
 
