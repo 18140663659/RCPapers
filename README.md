@@ -15,7 +15,7 @@
 
 7. **Language Models are Unsupervised Multitask Learners** XXX. XXX. [paper](https://d4mucfpksywv.cloudfront.net/better-language-models/language-models.pdf). [code](https://github.com/openai/gpt-2)
 
-8.  **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1810.04805.pdf). [code](https://github.com/google-research/bert)
+8.  **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1810.04805.pdf). [code](https://github.com/google-research/bert). [application](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650763568&idx=4&sn=f595b6783d9adf597273747acdcca910&chksm=871ab54eb06d3c58285276cc4c9cc8525283050623e93c1803974918a40654bbf19c9314ce29&mpshare=1&scene=23&srcid=#rd)
 
 ### (Important)Attention
 1. **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** XXX. XXX. [paper](https://arxiv.org/pdf/1409.0473.pdf)
@@ -73,6 +73,7 @@
 42. **Bidirectional Attentive Memory Networks for Question Answering over Knowledge Bases** XXX. XXX. [paper](https://arxiv.org/pdf/1903.02188.pdf)
 43. **Improving Machine Reading Comprehension with General Reading Strategies** . XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1270). [code](https://github.com/nlpdata/strategy/)
 44. **Multi-task Learning with Sample Re-weighting for Machine Reading Comprehension**. XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1271). 
+45. **Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding** . XXX. XXX. [paper](https://arxiv.org/abs/1904.09482)
 
 ### Related Works
 1. **Explicit Utilization of General Knowledge in Machine Reading Comprehension** XXX. XXX. [paper](https://arxiv.org/pdf/1809.03449v3.pdf)
