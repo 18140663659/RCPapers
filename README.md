@@ -75,27 +75,6 @@
 44. **Multi-task Learning with Sample Re-weighting for Machine Reading Comprehension**. XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1271). 
 45. **Improving Multi-Task Deep Neural Networks via Knowledge Distillation for Natural Language Understanding** . XXX. XXX. [paper](https://arxiv.org/abs/1904.09482)
 
-### Related Works
-1. **Explicit Utilization of General Knowledge in Machine Reading Comprehension** XXX. XXX. [paper](https://arxiv.org/pdf/1809.03449v3.pdf)
-3. **Text Generation from Knowledge Graphs with Graph Transformers** XXX.XXX. [paper](https://arxiv.org/pdf/1904.02342.pdf). [code](https://github.com/rikdz/GraphWriter)
-4. **Answering while Summarizing: Multi-task Learning for Multi-hop QA with Evidence Extraction** XXX. XXX. [paper](https://arxiv.org/pdf/1905.08511.pdf). 
-5. **Dynamically Fused Graph Network for Multi-hop Reasoning** XXX. XXX. [paper](https://arxiv.org/pdf/1905.06933.pdf)
-6. **Coarse-grain Fine-grain Coattention Network for Multi-evidence Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1901.00603.pdf)
-7. **HAS-QA: Hierarchical Answer Spans Model for Open-domain Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1901.03866.pdf)
-8. **Repurposing Entailment for Multi-Hop Question Answering Tasks** XXX. XXX. [paper](https://arxiv.org/pdf/1904.09380.pdf)
-9. **Cognitive Graph for Multi-Hop Reading Comprehension at Scale** XXX. XXX. [paper](https://arxiv.org/pdf/1905.05460.pdf)
-10. **MULTI-STEP RETRIEVER-READER INTERACTION FOR SCALABLE OPEN-DOMAIN QUESTION ANSWERING** XXX. XXX. [paper](https://arxiv.org/pdf/1905.05733.pdf). [code](https://github.com/rajarshd/Multi-Step-Reasoning)
-11. **HIBERT: Document Level Pre-training of Hierarchical Bidirectional Transformers for Document Summarization**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.06566.pdf). [code](https://github.com/abisee/cnn-dailymail)
-12. **Multi-hop Reading Comprehension across Multiple Documents by Reasoning over Heterogeneous Graphs** XXX. XXX. [paper](https://arxiv.org/pdf/1905.07374.pdf)
-13. **ElimiNet: A Model for Eliminating Options for Reading Comprehension with Multiple Choice Questions** XXX. XXX. [paper](https://arxiv.org/pdf/1904.02651.pdf).[code](https://github.com/sohamparikh94/ElimiNet)
-14. **Latent Retrieval for Weakly Supervised Open Domain Question Answering** XXX. XXX. [paper](https://arxiv.org/pdf/1906.00300.pdf)
-15. **A Simple but Effective Method to Incorporate Multi-turn Context with BERT for Conversational Machine Comprehension**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.12848.pdf)
-16. **Sequential Attention with Keyword Mask Model for Community-based Question Answering**. XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1228). [code](https://github.com/sheep-for/question_answer_matching)
-17. **BAG: Bi-directional Attention Entity Graph Convolutional Network forMulti-hop Reasoning Question Answering** . XXX. XXX. [paper](https://www.aclweb.org/anthology/N19-1032). [code](https://github.com/caoyu1991/BAG)
-18. **Gated Group Self-Attention for Answer Selection**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.10720v1.pdf). 
-19. **Context-Aware Self-Attention Networks**. XXX. XXX. [paper](https://arxiv.org/pdf/1902.05766.pdf)
-20. **Convolutional Self-Attention Networks** XXX. XXX. [paper](https://arxiv.org/pdf/1904.03107.pdf)
-
 
 ### Datasets
 1. (SQuAD 1.0) **SQuAD: 100,000+ Questions for Machine Comprehension of Text.** Pranav Rajpurkar, Jian Zhang, Konstantin Lopyrev, and Percy Liang. EMNLP 2016. [paper](https://aclweb.org/anthology/D16-1264)
