@@ -77,6 +77,10 @@
 46. **(New)Question Answering as Global Reasoning over Semantic Abstractions**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.03672.pdf). [code](https://github.com/allenai/semanticilp)
 47. **(New)RankQA: Neural Question Answering with Answer Re-Ranking**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.03008.pdf). [code](https://github.com/bernhard2202/rankqa)
 48. **(New)Multi-hop Reading Comprehension through Question Decomposition and Rescoring**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.02916.pdf). [code](https://github.com/shmsw25/DecompRC)
+49. **(New)NLProlog: Reasoning with Weak Unification for Question Answering in Natural Language**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06187.pdf). [code](https://github.com/leonweber/nlprolog)
+50. **(New)Learning to Ask Unanswerable Questions for Machine Reading Comprehension**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06045.pdf). 
+
+
 
 
 ### Datasets
