@@ -71,9 +71,9 @@
 
 41. **(Important)Multi-style Generative Reading Comprehension.** XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
 42. **(Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index** XXX. XXX. [paper](https://arxiv.org/pdf/1906.05807.pdf)
-43. **(New)Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension** . XXX. XXX. [paper](https://arxiv.org/pdf/1906.05210.pdf). [code](https://github.com/jiangycTarheel/EPAr)
+43. **Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension** . XXX. XXX. [paper](https://arxiv.org/pdf/1906.05210.pdf). [code](https://github.com/jiangycTarheel/EPAr)
 44. **(New)Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.04618.pdf). [code](https://github.com/huminghao16/RE3QA)
-45. **(New)A Survey on Neural Machine Reading Comprehension** . XXX. XXX. [paper](https://arxiv.org/pdf/1906.03824.pdf)
+45. **A Survey on Neural Machine Reading Comprehension** . XXX. XXX. [paper](https://arxiv.org/pdf/1906.03824.pdf)
 46. **(New)Question Answering as Global Reasoning over Semantic Abstractions**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.03672.pdf). [code](https://github.com/allenai/semanticilp)
 47. **(New)RankQA: Neural Question Answering with Answer Re-Ranking**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.03008.pdf). [code](https://github.com/bernhard2202/rankqa)
 48. **(New)Multi-hop Reading Comprehension through Question Decomposition and Rescoring**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.02916.pdf). [code](https://github.com/shmsw25/DecompRC)
