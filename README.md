@@ -79,6 +79,9 @@
 48. **(New)Multi-hop Reading Comprehension through Question Decomposition and Rescoring**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.02916.pdf). [code](https://github.com/shmsw25/DecompRC)
 49. **(New)NLProlog: Reasoning with Weak Unification for Question Answering in Natural Language**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06187.pdf). [code](https://github.com/leonweber/nlprolog)
 50. **(New)Learning to Ask Unanswerable Questions for Machine Reading Comprehension**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06045.pdf). 
+50. **(New)Multi-Hop Paragraph Retrieval for Open-Domain Question Answering**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06606.pdf). [code](https://github.com/yairf11/MUPPET)
+
+
 
 
 
