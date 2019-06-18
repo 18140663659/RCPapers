@@ -70,7 +70,7 @@
 40. **Read + Verify: Machine Reading Comprehension with Unanswerable Questions.** Furu Wei, Yuxing Peng, Zhen Huang, Nan Yang, and Ming Zhou. AAAI2019. [paper](https://arxiv.org/abs/1808.05759)
 
 41. **(Important)Multi-style Generative Reading Comprehension.** XXX.XXX. [paper](https://arxiv.org/pdf/1901.02262.pdf)
-42. **(New)Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index** XXX. XXX. [paper](https://arxiv.org/pdf/1906.05807.pdf)
+42. **(Real-Time Open-Domain Question Answering with Dense-Sparse Phrase Index** XXX. XXX. [paper](https://arxiv.org/pdf/1906.05807.pdf)
 43. **(New)Explore, Propose, and Assemble: An Interpretable Model for Multi-Hop Reading Comprehension** . XXX. XXX. [paper](https://arxiv.org/pdf/1906.05210.pdf). [code](https://github.com/jiangycTarheel/EPAr)
 44. **(New)Retrieve, Read, Rerank: Towards End-to-End Multi-Document Reading Comprehension**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.04618.pdf). [code](https://github.com/huminghao16/RE3QA)
 45. **(New)A Survey on Neural Machine Reading Comprehension** . XXX. XXX. [paper](https://arxiv.org/pdf/1906.03824.pdf)
