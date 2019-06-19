@@ -76,7 +76,7 @@
 45. **A Survey on Neural Machine Reading Comprehension** . XXX. XXX. [paper](https://arxiv.org/pdf/1906.03824.pdf)
 46. **RankQA: Neural Question Answering with Answer Re-Ranking**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.03008.pdf). [code](https://github.com/bernhard2202/rankqa)
 47. **(Important)Multi-hop Reading Comprehension through Question Decomposition and Rescoring**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.02916.pdf). [code](https://github.com/shmsw25/DecompRC)
-48. **(New)Learning to Ask Unanswerable Questions for Machine Reading Comprehension**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06045.pdf). 
+48. **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06045.pdf). 
 49. **(New)Multi-Hop Paragraph Retrieval for Open-Domain Question Answering**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06606.pdf). [code](https://github.com/yairf11/MUPPET)
 
 
