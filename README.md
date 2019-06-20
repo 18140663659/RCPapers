@@ -17,6 +17,8 @@
 
 8.  **BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1810.04805.pdf). [code](https://github.com/google-research/bert). [application](https://mp.weixin.qq.com/s?__biz=MzA3MzI4MjgzMw==&mid=2650763568&idx=4&sn=f595b6783d9adf597273747acdcca910&chksm=871ab54eb06d3c58285276cc4c9cc8525283050623e93c1803974918a40654bbf19c9314ce29&mpshare=1&scene=23&srcid=#rd)
 
+9. **XLNet: Generalized Autoregressive Pretraining for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1906.08237.pdf). [code](https://github.com/zihangdai/xlnet)
+
 ### (Important)Attention
 1. **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** XXX. XXX. [paper](https://arxiv.org/pdf/1409.0473.pdf)
 2. **Effective Approaches to Attention-based Neural Machine Translation** XXX. XXX [paper](https://arxiv.org/pdf/1508.04025.pdf)
