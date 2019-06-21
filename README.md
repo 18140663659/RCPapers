@@ -80,6 +80,8 @@
 47. **(Important)Multi-hop Reading Comprehension through Question Decomposition and Rescoring**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.02916.pdf). [code](https://github.com/shmsw25/DecompRC)
 48. **Learning to Ask Unanswerable Questions for Machine Reading Comprehension**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06045.pdf). 
 49. **(Important)Multi-Hop Paragraph Retrieval for Open-Domain Question Answering**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06606.pdf). [code](https://github.com/yairf11/MUPPET)
+50. **(New)Pre-Training with Whole Word Masking for Chinese BERT**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.08101.pdf). [code](https://github.com/ymcui/Chinese-BERT-wwm)
+
 
 
 
