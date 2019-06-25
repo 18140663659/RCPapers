@@ -26,7 +26,7 @@
 4. **Long Short-Term Memory-Networks for Machine Reading.** XXX. XXX [paper](https://aclweb.org/anthology/D16-1053)
 5. **FEED-FORWARD NETWORKS WITH ATTENTION CAN SOLVE SOME LONG-TERM MEMORY PROBLEMS** XXX. XXX. [paper](https://arxiv.org/pdf/1512.08756.pdf)
 6. **A STRUCTURED SELF-ATTENTIVE SENTENCE EMBEDDING** XXX. XXX. [paper](https://arxiv.org/pdf/1703.03130.pdf)
-7. **FRUSTRATINGLY SHORT ATTENTION SPANS IN NEURAL LANGUAGE MODELING**. XXX. XXX. [paper](https://arxiv.org/pdf/1702.04521.pdf)
+7. **FRUSTRATINGLY SHORT ATTENTION SPANS IN NEURAL LANGUAGE MODELING**. XXX. XXX. [paper](https://arxiv.org/pdf/1901.02860.pdf)
 
 
 ### Model Architecture
