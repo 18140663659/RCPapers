@@ -82,8 +82,8 @@
 49. **(Important)Multi-Hop Paragraph Retrieval for Open-Domain Question Answering**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.06606.pdf). [code](https://github.com/yairf11/MUPPET)
 50. **Pre-Training with Whole Word Masking for Chinese BERT**. XXX. XXX. [paper](https://arxiv.org/pdf/1906.08101.pdf). [code](https://github.com/ymcui/Chinese-BERT-wwm)
 51. **Dynamically Fused Graph Network for Multi-hop Reasoning**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.06933.pdf).
-
-
+52. **Improving Question Answering over Incomplete KBs with Knowledge-Aware Reades**. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1417).
+53. **Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension**. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1218).
 
 
 
