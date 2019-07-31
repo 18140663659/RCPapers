@@ -84,6 +84,9 @@
 51. **Dynamically Fused Graph Network for Multi-hop Reasoning**. XXX. XXX. [paper](https://arxiv.org/pdf/1905.06933.pdf).
 52. **Improving Question Answering over Incomplete KBs with Knowledge-Aware Reades**. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1417).
 53. **Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension**. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1218).
+54. **Inferential Machine Comprehension: Answering Questions by Recursively Deducing the Evidence Chain from Text**. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1217).
+
+
 
 
 
