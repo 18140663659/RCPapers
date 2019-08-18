@@ -19,7 +19,7 @@
 
 9. **XLNet: Generalized Autoregressive Pretraining for Language Understanding** XXX. XXX. [paper](https://arxiv.org/pdf/1906.08237.pdf). [code](https://github.com/zihangdai/xlnet). [related](https://arxiv.org/pdf/1901.02860.pdf).
 
-10. **ERNIE 2.0: A CONTINUAL PRE-TRAINING FRAMEWORK FOR LANGUAGE UNDERSTANDING ** XXX. XXX. [paper](https://arxiv.org/pdf/1907.12412v1.pdf).
+10.**ERNIE 2.0: A CONTINUAL PRE-TRAINING FRAMEWORK FOR LANGUAGE UNDERSTANDING ** XXX. XXX. [paper](https://arxiv.org/pdf/1907.12412v1.pdf).
 
 ### (Important)Attention
 1. **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** XXX. XXX. [paper](https://arxiv.org/pdf/1409.0473.pdf)
