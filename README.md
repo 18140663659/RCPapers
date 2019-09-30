@@ -1,6 +1,6 @@
 ## Must-read papers on Machine Reading Comprehension. 
 
-### (Important)Pre-Train Model
+### Pre-Train Model
 1.  **A Neural Probabilistic Language Model.**  XXX. XXX. [paper](http://papers.nips.cc/paper/1839-a-neural-probabilistic-language-model.pdf)
 
 2.  **Efficient Estimation of Word Representations in Vector Space.** XXX. XXX. [paper](https://arxiv.org/abs/1301.3781.pdf).[code](https://github.com/deborausujono/word2vecpy)
@@ -23,7 +23,7 @@
 
 11. **A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS** XXX. XXX. [paper](https://openreview.net/pdf?id=H1eA7AEtvS). [code](https://github.com/brightmart/albert_zh). 
 
-### (Important)Attention
+### Attention
 1. **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** XXX. XXX. [paper](https://arxiv.org/pdf/1409.0473.pdf)
 2. **Effective Approaches to Attention-based Neural Machine Translation** XXX. XXX [paper](https://arxiv.org/pdf/1508.04025.pdf)
 3. **Teaching Machines to Read and Comprehend.** XXX. XXX. [paper](https://papers.nips.cc/paper/5945-teaching-machines-to-read-and-comprehend.pdf)
