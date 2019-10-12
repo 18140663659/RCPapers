@@ -21,7 +21,10 @@
 
 10. **ERNIE 2.0: A CONTINUAL PRE-TRAINING FRAMEWORK FOR LANGUAGE UNDERSTANDING** XXX. XXX. [paper](https://arxiv.org/pdf/1907.12412v1.pdf).
 
-11. **A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS** XXX. XXX. [paper](https://openreview.net/pdf?id=H1eA7AEtvS). [code](https://github.com/brightmart/albert_zh). 
+11. **A LITE BERT FOR SELF-SUPERVISED LEARNING OF LANGUAGE REPRESENTATIONS** XXX. XXX. [paper](https://openreview.net/pdf?id=H1eA7AEtvS). [code](https://github.com/brightmart/albert_zh).
+
+12. **Pre-training models before 2019.10** XXX. XXX. [paper](https://github.com/thunlp/PLMpapers).
+
 
 ### Attention
 1. **NEURAL MACHINE TRANSLATION BY JOINTLY LEARNING TO ALIGN AND TRANSLATE** XXX. XXX. [paper](https://arxiv.org/pdf/1409.0473.pdf)
