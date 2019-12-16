@@ -93,8 +93,11 @@
 53. **Token-level Dynamic Self-Attention Network for Multi-Passage Reading Comprehension**. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1218).
 54. **Inferential Machine Comprehension: Answering Questions by Recursively Deducing the Evidence Chain from Text**. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1217).
 55. **Enhancing Pre-Trained Language Representations with Rich Knowledge for Machine Reading Comprehension**. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1226).
-56. **Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data
-**. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1434).
+56. **Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data **. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1434).
+57. **Episodic Memory Reader: Learning What to Remember for Question Answering from Streaming Data **. XXX. XXX. [paper](https://www.aclweb.org/anthology/P19-1434).
+58. **KagNet: Knowledge-Aware Graph Networks for Commonsense Reasoning **. XXX. XXX. 
+59. **Multi-Task Learning for Conversational Question Answering over a Large-Scale Knowledge Base **. XXX. XXX. 
+
 
 
 
